@@ -1,6 +1,6 @@
 # Thim Core Advanced
 
-Thim Core Advanced est un plugin serveur pour Nova-Life Amboise. Il regroupe les outils de gestion courante du serveur et ajoute des modules de surveillance liés à l'économie, aux inventaires et au temps de jeu.
+Thim Core Advanced est un plugin serveur pour Nova-Life Amboise. Il regroupe les outils de gestion courante du serveur et ajoute des modules de surveillance, Modération, Optimisation, Administration, ect.. 
 
 Le plugin fonctionne avec une clé de licence valide. Sans activation, les modules restent désactivés.
 
@@ -82,7 +82,7 @@ La procédure complète est disponible dans [INSTALLATION.md](INSTALLATION.md).
 
 ## Compatibilité
 
-- Nova-Life Amboise
+- Nova-Life
 - Plugin serveur autonome
 - Aucune dépendance externe requise
 
@@ -91,9 +91,6 @@ La procédure complète est disponible dans [INSTALLATION.md](INSTALLATION.md).
 La version compilée est distribuée depuis les Releases du dépôt. Le code source et les clés de licence ne sont pas inclus.
 
 ## Crédits
-
 Développé par Thimoute.
-
 Proposé et mis en avant par CookYourServ.
-
 Support : https://discord.gg/8DG7AsMDC
